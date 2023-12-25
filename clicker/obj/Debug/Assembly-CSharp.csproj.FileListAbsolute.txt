@@ -1,0 +1,2 @@
+C:\Users\maxop\clicker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\maxop\clicker\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
